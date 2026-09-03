@@ -1,0 +1,23 @@
+# Datos y salidas (públicos pero pesados) — no subir
+INPUT/
+SALIDAS/
+*.csv
+*.gpkg
+*.xlsx
+*.kml
+*.kmz
+
+# Conservar la vista previa que usa el README
+!docs/
+!docs/*.png
+
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Sistema
+.DS_Store
+Thumbs.db
+~$*
