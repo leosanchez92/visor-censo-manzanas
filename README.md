@@ -1,5 +1,7 @@
 # Visualizador de variables censales por manzana — Censo 2024
 
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![MapLibre GL JS](https://img.shields.io/badge/MapLibre_GL_JS-396CB2?style=flat-square&logo=maplibre&logoColor=white) ![GeoPackage](https://img.shields.io/badge/GeoPackage-2C7FB8?style=flat-square)
+
 Herramienta en **R** que genera un **mapa coroplético interactivo** de cualquier
 variable disponible por manzana en la cartografía del Censo 2024. La variable a
 mapear, la comuna y los cortes de la coropleta son **parámetros**: cambiando el
